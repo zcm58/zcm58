@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm Zack Murphy</h1>
-<h3 align="left">Biomedical Engineering graduate student & Lab Manager, Neural Engineering Research Division</h3>
+# Zack Murphy
 
-- Email me! **zmurphy@abe.msstate.edu**
-- Check out my publications: https://orcid.org/0009-0003-3868-6888
+**`Graduate Student, Biomedical Engineering`**
+**`Lab Manager, Neural Engineering Research Division`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zack-murphy-307282146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zack-murphy-307282146" height="30" width="40" /></a>
-</p>
+I'm a Graduate Student at Mississippi State University, and my research involves developing a new method for use in early detection of cognitive decline using EEG. As part of my Ph.D. research, I will be devleoping a software package to aid in data analysis for Fast Periodic Visual Stimulation (FPVS) EEG experiments. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### Languages and Tools 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/matlab/original.svg" />
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg" />
+
+<br />
+
+---
+
+### Publications
+
+<details>
+  <summary><b>Publications (click to expand)</b></summary>
+
+1. **Preliminary evidence for anxiety-linked neural sensitivity to emotional faces using fast periodic visual stimulation** (2025)  
+   ... [https://doi.org/10.1016/j.ijpsycho.2025.113212](https://doi.org/10.1016/j.ijpsycho.2025.113212)
+
+2. **Exploring facial expression processing with fast periodic visual stimulation and diverse stimuli** (2025)  
+   ... [https://doi.org/10.1016/j.bandc.2025.106338](https://doi.org/10.1016/j.bandc.2025.106338)
+
+</details>
