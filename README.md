@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zack Murphy</h1>
-<h3 align="center">A Biomedical Engineering graduate student</h3>
+<h3 align="center">Biomedical Engineering graduate student & Lab Manager, Neural Engineering Research Division</h3>
 
-- 📫 How to reach me **zmurphy@abe.msstate.edu**
+- Email me! **zmurphy@abe.msstate.edu**
+- Check out my publications: https://orcid.org/0009-0003-3868-6888
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
