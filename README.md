@@ -28,3 +28,10 @@ I'm a Graduate Student at Mississippi State University, and my research involves
    ... [https://doi.org/10.1016/j.bandc.2025.106338](https://doi.org/10.1016/j.bandc.2025.106338)
 
 </details>
+
+---
+
+### Connect with me!
+
+- [LinkedIn](www.linkedin.com/in/zack-murphy-307282146)
+- [Email](mailto:zmurphy@abe.msstate.edu)
