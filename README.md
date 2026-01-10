@@ -3,7 +3,7 @@
 **`Graduate Student, Biomedical Engineering`**
 **`Lab Manager, Neural Engineering Research Division`**
 
-I'm a Graduate Student at Mississippi State University, and my research involves developing a new method for use in early detection of cognitive decline using EEG. As part of my Ph.D. research, I will be devleoping a software package to aid in data analysis for Fast Periodic Visual Stimulation (FPVS) EEG experiments. 
+I'm a Graduate Student at Mississippi State University, and I'm researching cognitive decline using EEG. As part of my Ph.D. research, I will be devleoping a software package to aid in data processing and analysis for Fast Periodic Visual Stimulation (FPVS) EEG experiments. 
 
 ---
 
