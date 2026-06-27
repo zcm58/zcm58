@@ -3,7 +3,7 @@
 **`Graduate Student, Biomedical Engineering`**
 **`Lab Manager, Neural Engineering Research Division`**
 
-I'm a Graduate Student at Mississippi State University, and I'm researching cognitive decline using EEG. As part of my Ph.D. research, I will be devleoping a software package to aid in data processing and analysis for Fast Periodic Visual Stimulation (FPVS) EEG experiments. 
+I'm a Ph.D. student at Mississippi State University, and my research focuses on the use of Fast Periodic Visual Stimulation (FPVS) combined with EEG to conduct various cognitive neuroscience experiments. 
 
 ---
 
@@ -16,22 +16,9 @@ I'm a Graduate Student at Mississippi State University, and I'm researching cogn
 
 ---
 
-### Publications
-
-<details>
-  <summary><b>Publications (click to expand)</b></summary>
-
-1. **Preliminary evidence for anxiety-linked neural sensitivity to emotional faces using fast periodic visual stimulation** (2025)  
-   ... [https://doi.org/10.1016/j.ijpsycho.2025.113212](https://doi.org/10.1016/j.ijpsycho.2025.113212)
-
-2. **Exploring facial expression processing with fast periodic visual stimulation and diverse stimuli** (2025)  
-   ... [https://doi.org/10.1016/j.bandc.2025.106338](https://doi.org/10.1016/j.bandc.2025.106338)
-
-</details>
-
----
 
 ### Connect with me!
 
+- [Personal Website](www.zack-murphy.com)
 - [LinkedIn](www.linkedin.com/in/zack-murphy-307282146)
 - [Email](mailto:zmurphy@abe.msstate.edu)
