@@ -19,6 +19,6 @@ I'm a Ph.D. student at Mississippi State University, and my research focuses on 
 
 ### Connect with me!
 
-- [Personal Website](www.zack-murphy.com)
-- [LinkedIn](www.linkedin.com/in/zack-murphy-307282146)
+- [Personal Website](https://www.zack-murphy.com)
+- [LinkedIn](https://www.linkedin.com/in/zack-murphy-307282146)
 - [Email](mailto:zmurphy@abe.msstate.edu)
